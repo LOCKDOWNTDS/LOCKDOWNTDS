@@ -2,7 +2,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lockdowntds&label=Profile%20views&color=0e75b6&style=flat" alt="lockdowntds" /> </p>
+
 
 - 🔭 I’m currently working on [BlueWaveHotel](https://github.com/3J-Software/BlueWaveHotel)
 
@@ -21,3 +21,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lockdowntds&show_icons=true&locale=en&layout=compact" alt="lockdowntds" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lockdowntds&show_icons=true&locale=en" alt="lockdowntds" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lockdowntds&label=Profile%20views&color=0e75b6&style=flat" alt="lockdowntds" /> </p>
