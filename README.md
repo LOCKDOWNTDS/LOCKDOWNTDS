@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on [BlueWaveHotel](https://github.com/3J-Software/BlueWaveHotel)
+- 🔭 I’m currently working on [TDL-News](https://github.com/LOCKDOWNTDS/TDL-News)
 
 - 🌱 I’m currently learning **React.js**
 
