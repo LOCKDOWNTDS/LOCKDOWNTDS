@@ -1,24 +1,70 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQEJPBKKsNssSw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725551246296?e=1745452800&v=beta&t=qhBXM0hwqlQ2ff5W0issDxoo8vIwljoNt_t4ro2eW6I)
+<div align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQEJPBKKsNssSw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725551246296?e=1745452800&v=beta&t=qhBXM0hwqlQ2ff5W0issDxoo8vIwljoNt_t4ro2eW6I" width="100%" alt="MasterHead" />
+  
+  <h1>Hi, I'm Serdar Akdemir 👋</h1>
+  <p><strong>Full Stack Developer | 3D Web & Algorithmic Trading Enthusiast</strong></p>
 
+  <p>
+    <a href="https://linkedin.com/in/serdar-akdemir-ld/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:serdarakdemir.tds@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</div>
 
+---
 
+## 🚀 About Me & Current Focus
 
+* 🔭 **Currently Working On:** [Auto Trade AI](https://autotradeai.com.tr/) – Algorithmic cryptocurrency trading bots, indicator optimization, and high-performance database synchronization.
+* 📦 **Production & CRM Systems:** Developing advanced production tracking systems, dynamic reporting engines, and modernizing legacy infrastructures (migrating to high-performance Dapper architecture).
+* 🌐 **3D Web Visualization:** Building realistic, interactive 3D product configurators using **Three.js** (lighting, shadows, and baked textures).
+* 🤖 **Local AI Infrastructure:** Integrating local LLMs (via Ollama & DeepSeek/Qwen models) into autonomous development workflows.
 
-- 🔭 I’m currently working on [Auto Trade Ai](https://autotradeai.com.tr/) 
- 
-- 📫 How to reach me **serdarakdemir.tds@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
+## 🛠️ Tech Stack & Tools
+
+### Backend & Databases
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/serdar-akdemir-ld/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/serdar-akdemir-ld/" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/.NET%208%20%2F%209-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="dotNET" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="MSSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Dapper%20%2F%20EF%20Core-512BD4?style=flat-square" alt="ORMs" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LOCKDOWNTDS&layout=compact" alt="Most Used Languages" style="display: inline-block; width: 37%;"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=LOCKDOWNTDS&show_icons=true&theme=radical" alt="LOCKDOWN's GitHub stats" style="display: inline-block; width: 49%;"/>
+### Frontend & 3D Visualization
+<p align="left">
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" alt="Three.js" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="jQuery" />
+  <img src="https://img.shields.io/badge/Bootstrap%205-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap 5" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lockdowntds&label=Profile%20views&color=0e75b6&style=flat" alt="lockdowntds" /> </p>
+### Tools & DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/Ollama%20(Local%20AI)-000000?style=flat-square" alt="Ollama" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LOCKDOWNTDS&layout=compact&theme=radical" alt="Most Used Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LOCKDOWNTDS&show_icons=true&theme=radical" alt="LOCKDOWN's GitHub stats" width="49%" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=lockdowntds&label=Profile%20views&color=0e75b6&style=flat" alt="lockdowntds views" />
+</div>
