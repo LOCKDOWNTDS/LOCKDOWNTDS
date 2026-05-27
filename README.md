@@ -18,7 +18,7 @@
 
 ## 🚀 Ne Üzerine Çalışıyorum?
 
-* 🤖 **Auto Trade AI:** Kripto piyasaları için geliştirdiğim, özel indikatör kombinasyonları ve yüksek performanslı veri senkronizasyonuna sahip algoritmik trade bot projem.
+* 🤖 **[Auto Trade AI](https://autotradeai.com.tr/):** Kripto piyasaları için geliştirdiğim, özel indikatör kombinasyonları ve yüksek performanslı veri senkronizasyonuna sahip algoritmik trade bot projem.
 * 🏭 **Fabrika Üretim Takip & SaaS:** Üretim hatlarındaki süreçleri anlık izleyen devasa paneller (Dashboard), yönetici modülleri ve entegre online sipariş web siteleri.
 * 📐 **3D Web & Blender:** Tasarımları Blender'da işleyip, fırınlanmış (baked) materyalleri Three.js ile interaktif web tabanlı ürün konfigüratörlerine dönüştürme.
 * 🗄️ **Büyük Veri & Optimizasyon:** Milyonlarca satırlık büyük veri tabanlarında performanslı sorgular ve dapper mimarisi ile optimizasyon çalışmaları.
@@ -51,7 +51,7 @@
 * <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/> **Linux**
 * 🤖 **Ollama (Local AI Infrastructure)**
 * 🛸 **AntiGravity**
-* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openai/openai-original.svg" alt="chatgpt" width="20" height="20"/> **ChatGPT Codex**
+* <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" alt="chatgpt" width="20" height="20"/> **ChatGPT Codex**
 * <img src="https://www.vectorlogo.zone/logos/anthropic/anthropic-icon.svg" alt="claude" width="20" height="20"/> **Claude AI**
 
 ---
