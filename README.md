@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on [TDL-News](https://autotradeai.com.tr/) 
+- 🔭 I’m currently working on [Auto Trade Ai](https://autotradeai.com.tr/) 
  
 - 📫 How to reach me **serdarakdemir.tds@gmail.com**
 
