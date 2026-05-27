@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQEJPBKKsNssSw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725551246296?e=1745452800&v=beta&t=qhBXM0hwqlQ2ff5W0issDxoo8vIwljoNt_t4ro2eW6I" width="100%" alt="MasterHead" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SERDAR%20AKDEMIR&fontSize=50" width="100%" alt="MasterHead" />
   
-  <h1>Hi, I'm Serdar Akdemir 👋</h1>
-  <p><strong>Full Stack Developer | 3D Web & Algorithmic Trading Enthusiast</strong></p>
+  <h1>⚡ WELCOME TO MY GITHUB SPACE ⚡</h1>
+  <p><strong>Building High-Performance Systems, Web 3D Experiences & Trading Bots</strong></p>
 
   <p>
     <a href="https://linkedin.com/in/serdar-akdemir-ld/" target="_blank">
@@ -16,47 +16,43 @@
 
 ---
 
-## 🚀 About Me & Current Focus
+## 🚀 Ne Üzerine Çalışıyorum?
 
-* 🔭 **Currently Working On:** [Auto Trade AI](https://autotradeai.com.tr/) – Algorithmic cryptocurrency trading bots, indicator optimization, and high-performance database synchronization.
-* 📦 **Production & CRM Systems:** Developing advanced production tracking systems, dynamic reporting engines, and modernizing legacy infrastructures (migrating to high-performance Dapper architecture).
-* 🌐 **3D Web Visualization:** Building realistic, interactive 3D product configurators using **Three.js** (lighting, shadows, and baked textures).
-* 🤖 **Local AI Infrastructure:** Integrating local LLMs (via Ollama & DeepSeek/Qwen models) into autonomous development workflows.
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### Backend & Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/.NET%208%20%2F%209-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="dotNET" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="MSSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Dapper%20%2F%20EF%20Core-512BD4?style=flat-square" alt="ORMs" />
-</p>
-
-### Frontend & 3D Visualization
-<p align="left">
-  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" alt="Three.js" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="jQuery" />
-  <img src="https://img.shields.io/badge/Bootstrap%205-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap 5" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-### Tools & DevOps
-<p align="left">
-  <img src="https://img.shields.io/badge/Ollama%20(Local%20AI)-000000?style=flat-square" alt="Ollama" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-</p>
+* 🤖 **Auto Trade AI:** Kripto piyasaları için geliştirdiğim, özel indikatör kombinasyonları ve yüksek performanslı veri senkronizasyonuna sahip algoritmik trade bot projem.
+* 🏭 **Fabrika Üretim Takip & SaaS:** Üretim hatlarındaki süreçleri anlık izleyen devasa paneller (Dashboard), yönetici modülleri ve entegre online sipariş web siteleri.
+* 📐 **3D Web & Blender:** Tasarımları Blender'da işleyip, fırınlanmış (baked) materyalleri Three.js ile interaktif web tabanlı ürün konfigüratörlerine dönüştürme.
+* 🗄️ **Büyük Veri & Optimizasyon:** Milyonlarca satırlık büyük veri tabanlarında performanslı sorgular ve dapper mimarisi ile optimizasyon çalışmaları.
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Yetkinlikler & Teknolojiler
+
+### 💻 Diller (Languages)
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/> **C#**
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> **JavaScript**
+* <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="20" height="20"/> **SQL (Big Data Management)**
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="20" height="20"/> **PHP**
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> **HTML5 / CSS3**
+
+### 📦 Frameworkler & Kütüphaneler (Frameworks & Libs)
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="20" height="20"/> **.NET 8 / 9 (ASP.NET MVC)**
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> **React**
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="threejs" width="20" height="20"/> **Three.js (Web 3D)**
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwind" width="20" height="20"/> **Tailwind CSS**
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="20" height="20"/> **Bootstrap 5**
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="20" height="20"/> **jQuery & AJAX**
+
+### 🔧 Araçlar & Modelleme (Tools & Ecosystem)
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="blender" width="20" height="20"/> **Blender (3D Modeling & Baking)**
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/> **MySQL Server**
+* <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/> **Git & GitHub**
+* <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="20" height="20"/> **Postman**
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/> **Linux**
+* 🤖 **Ollama (Local AI Infrastructure)**
+
+---
+
+## 📈 Profil İstatistikleri
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LOCKDOWNTDS&layout=compact&theme=radical" alt="Most Used Languages" width="45%" />
