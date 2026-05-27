@@ -4,11 +4,9 @@
 
 
 
-- 🔭 I’m currently working on [TDL-News](https://github.com/LOCKDOWNTDS/TDL-News) 
-
-- 🌱 I’m currently learning **React.js**
-
-- 📫 How to reach me **serdarakdemir2008@gmail.com**
+- 🔭 I’m currently working on [TDL-News](https://autotradeai.com.tr/) 
+ 
+- 📫 How to reach me **serdarakdemir.tds@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
