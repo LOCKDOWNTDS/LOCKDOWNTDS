@@ -16,7 +16,7 @@
 
 ---
 
-## 🤖 Amiral Gemisi Projem: [Auto Trade AI](https://autotradeai.com.tr/)
+## <img src="https://lh3.googleusercontent.com/d/1hnNuIaDaQOIIURKu8NkKcQjV9fujKLXe" alt="Auto Trade AI Logo" width="32" height="32" align="center"/> [Auto Trade AI](https://autotradeai.com.tr/)
 
 Kripto para piyasalarında tamamen otonom ve yüksek frekanslı işlemler gerçekleştirmek üzere kurguladığım, mimarisini uçtan uca tasarladığım algoritmik ticaret platformu.
 
@@ -26,42 +26,42 @@ Kripto para piyasalarında tamamen otonom ve yüksek frekanslı işlemler gerçe
 
 ---
 
-## 🚀 Diğer Çalışmalarım
+## 🏭 Diğer Çalışmalarım
 
-* 🏭 **Fabrika Üretim Takip & SaaS:** Üretim hatlarındaki tüm süreçleri anlık izleyen devasa paneller (Dashboard), yönetici modülleri ve bunlarla entegre çalışan online sipariş web siteleri.
-* 📐 **3D Web & Blender:** Tasarımları Blender'da işleyip, fırınlanmış (baked) materyallerle web tarayıcısında canlandırma. Three.js ile interaktif ürün konfigüratörleri hazırlıyorum.
-* 🗄️ **Büyük Veri & Optimizasyon:** Milyonlarca satırlık büyük veri tabanlarında (SQL Server) performans canavarı sorgular yazmak, eski mimarileri Dapper gibi hafif ve hızlı yapılara dönüştürmek.
+* ⚙️ **Fabrika Üretim Takip & SaaS:** Üretim hatlarındaki süreçleri anlık izleyen devasa paneller (Dashboard), yönetici modülleri ve entegre online sipariş web siteleri.
+* 📐 **3D Web & Blender:** Tasarımları Blender'da işleyip, fırınlanmış (baked) materyalleri Three.js ile interaktif web tabanlı ürün konfigüratörlerine dönüştürme.
+* 🗄️ **Büyük Veri & Optimizasyon:** Milyonlarca satırlık büyük veri tabanlarında performanslı sorgular ve dapper mimarisi ile optimizasyon çalışmaları.
 
 ---
 
 ## 🛠️ Yetkinlikler & Teknolojiler
 
 ### 💻 Diller (Languages)
-* <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"/> **C#**
-* <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C"/> **C**
-* <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/> **JavaScript**
-* <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL"/> **SQL (Big Data Management)**
-* <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/> **PHP**
-* <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/> **HTML5 / CSS3**
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/> **C#**
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="20" height="20"/> **C**
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> **JavaScript**
+* <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="20" height="20"/> **SQL (Big Data Management)**
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="20" height="20"/> **PHP**
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> **HTML5 / CSS3**
 
 ### 📦 Frameworkler & Kütüphaneler (Frameworks & Libs)
-* <img src="https://img.shields.io/badge/.NET_8_/_9-512BD4?style=flat-square&logo=.net&logoColor=white" alt=".NET"/> **.NET 8 / 9 (ASP.NET MVC)**
-* <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/> **React**
-* <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" alt="Three.js"/> **Three.js (Web 3D)**
-* <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind"/> **Tailwind CSS**
-* <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/> **Bootstrap 5**
-* <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="jQuery"/> **jQuery & AJAX**
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="20" height="20"/> **.NET 8 / 9 (ASP.NET MVC)**
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> **React**
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="threejs" width="20" height="20"/> **Three.js (Web 3D)**
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwind" width="20" height="20"/> **Tailwind CSS**
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="20" height="20"/> **Bootstrap 5**
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="20" height="20"/> **jQuery & AJAX**
 
-### 🔧 Araçlar & Yapay Zeka (Tools & Ecosystem)
-* <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white" alt="Blender"/> **Blender (3D Modeling & Baking)**
-* <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/> **MySQL Server**
-* <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/> **Git & GitHub**
-* <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/> **Postman**
-* <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/> **Linux**
-* <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama"/> **Ollama (Local AI Infrastructure)**
-* <img src="https://img.shields.io/badge/AntiGravity-🚀-black?style=flat-square" alt="AntiGravity"/> **AntiGravity**
-* <img src="https://img.shields.io/badge/ChatGPT_Codex-412991?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT"/> **ChatGPT Codex**
-* <img src="https://img.shields.io/badge/Claude_AI-D97706?style=flat-square&logo=anthropic&logoColor=white" alt="Claude"/> **Claude AI**
+### 🔧 Araçlar & Modelleme (Tools & Ecosystem)
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="blender" width="20" height="20"/> **Blender (3D Modeling & Baking)**
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/> **MySQL Server**
+* <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/> **Git & GitHub**
+* <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="20" height="20"/> **Postman**
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/> **Linux**
+* 🤖 **Ollama (Local AI Infrastructure)**
+* <img src="https://img.shields.io/badge/--black?style=flat-square&logo=rocket" alt="antigravity" width="20" height="20"/> **AntiGravity**
+* <img src="https://img.shields.io/badge/--412991?style=flat-square&logo=openai&logoColor=white" alt="chatgpt" width="20" height="20"/> **ChatGPT Codex**
+* <img src="https://img.shields.io/badge/--D97706?style=flat-square&logo=anthropic&logoColor=white" alt="claude" width="20" height="20"/> **Claude AI**
 
 ---
 
