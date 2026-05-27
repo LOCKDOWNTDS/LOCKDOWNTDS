@@ -50,6 +50,9 @@
 * <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="20" height="20"/> **Postman**
 * <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/> **Linux**
 * 🤖 **Ollama (Local AI Infrastructure)**
+* 🛸 **AntiGravity**
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openai/openai-original.svg" alt="chatgpt" width="20" height="20"/> **ChatGPT Codex**
+* <img src="https://www.vectorlogo.zone/logos/anthropic/anthropic-icon.svg" alt="claude" width="20" height="20"/> **Claude AI**
 
 ---
 
